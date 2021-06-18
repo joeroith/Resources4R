@@ -1,5 +1,3 @@
-# Extra Resources for Learning R
-
 ## R Guides and Troubleshooting
 Below are walkthroughs of the RStudio environment as well as some common errors for running code and knitting documents.
 
