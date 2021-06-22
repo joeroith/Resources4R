@@ -1,10 +1,10 @@
 ## R Guides and Troubleshooting
 Below are walkthroughs of the RStudio environment as well as some common errors for running code and knitting documents.
 
-- [RStudio Guide](https://drive.google.com/file/d/1O9jSXFWokTMiOCWXHVJP2iacX7D2r43v/view?usp=sharing)
+- [RStudio guide](https://drive.google.com/file/d/1O9jSXFWokTMiOCWXHVJP2iacX7D2r43v/view?usp=sharing)
 - [Common errors and issues](https://docs.google.com/document/d/1fWiqTo0wqPwIpD0ezTVLHodj-7SUN9id-kvvlJOznvY/edit?usp=sharing)
-- [R Coding Style Guide](http://adv-r.had.co.nz/Style.html)
-- [Color Guide for plots](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)
+- [R coding style guide](http://adv-r.had.co.nz/Style.html)
+- [Color guide for plots](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)
 - [R data set packages](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
 
 ## R Cheatsheets
