@@ -5,6 +5,7 @@ Below are walkthroughs of the RStudio environment as well as some common errors 
 - [Common errors and issues](https://docs.google.com/document/d/1fWiqTo0wqPwIpD0ezTVLHodj-7SUN9id-kvvlJOznvY/edit?usp=sharing)
 - [R Coding Style Guide](http://adv-r.had.co.nz/Style.html)
 - [Color Guide for plots](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)
+- [R data set packages](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
 
 ## R Cheatsheets
 These links will download 1-2 page documents with lots of helpful tips.
