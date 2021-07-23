@@ -26,6 +26,7 @@ There are tons of resources out there to learn R on your own and it can be a lit
     - [A Gentle Introduction to Tidy Statistics in R](https://www.rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/) (*webinar - 54 min*)
     - [learnR4free](https://www.learnr4free.com/index.html)
     - [RStudio primers](https://rstudio.cloud/learn/primers)
+    - [R Bootcamp](https://r-bootcamp.netlify.app/)
     - [Swirl](http://swirlstats.com/) (more traditional R in the RStudio environment)
     - [More resources for intermediate R users](https://education.rstudio.com/learn/intermediate/)
 
